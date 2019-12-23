@@ -1,0 +1,16 @@
+﻿@model MVCMusicStore2019.ViewModels.AlbumViewModel
+@{ 
+    ViewBag.Title = "音乐专辑" + Model.Name;
+}
+<h2>@ViewBag.Title</h2>
+<div class="albumDetil">
+    <img src="/PICS/@Url.Content(Model.Urlstring)" class="poster" alt="@Model.Name" />
+    <div>@Html.LabelFor(x=>x.Name):@Model.Name</div>
+    <div>@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</div>
+    <div>@Html.LabelFor(x => x.GenreName):@Model.GenreName</div>
+    <div>@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</div>
+    <div>@Html.LabelFor(x => x.Issuer):@Model.Issuer</div>
+    <div>@Html.LabelFor(x => x.IssueDate):@Model.IssueDate</div>
+    <div>@Html.LabelFor(x => x.LanguageClassification):@Model.LanguageClassification</div>
+    <div>@Html.LabelFor(x => x.Price):@Model.Price</div>
+</div>

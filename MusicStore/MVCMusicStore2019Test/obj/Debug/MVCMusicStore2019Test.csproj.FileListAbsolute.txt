@@ -1,0 +1,202 @@
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+E:\ls\Web\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+E:\ls\Web\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Owin.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Castle.Core.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Moq.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\WebGrease.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.dll
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Castle.Core.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Moq.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.xml
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.pdb
+E:\ls\Web\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Castle.Core.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Moq.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Owin.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\WebGrease.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Castle.Core.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Moq.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.xml
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.pdb
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+D:\新建文件夹 (2)\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+D:\新建文件夹 (2)\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb
