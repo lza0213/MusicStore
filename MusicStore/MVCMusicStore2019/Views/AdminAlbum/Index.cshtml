@@ -12,11 +12,13 @@
     <table class="table table-striped">
         <tr>
             <th>@Html.DisplayNameFor(model => model.OrderNumber)</th>
+
             <th>@Html.DisplayNameFor(model => model.Urlstring)</th>
             <th>@Html.DisplayNameFor(model => model.Name)</th>
             <th>@Html.DisplayNameFor(model => model.Description)</th>
             <th>@Html.DisplayNameFor(model => model.Price)</th>
             <th>@Html.DisplayNameFor(model => model.IssueDate)</th>
+
             
         </tr>
         @using (Ajax.BeginForm("Index", new AjaxOptions()))
@@ -30,7 +32,7 @@
                 <tr>
                     @Html.HiddenFor(modelItem => item.ID)
                     <th>@item.OrderNumber</th>
-                    <td>@Html.DisplayFor(modelItem => item.Urlstring)</td>
+                    <td><img src="~/PICS/@Url.Content(item.Urlstring)" class="say"</td>
                     <td>@Html.DisplayFor(modelItem => item.Name)</td>
                     <td>@Html.DisplayFor(modelItem => item.Description)</td>
                     <td>@Html.DisplayFor(modelItem => item.Price)</td>
@@ -48,7 +50,7 @@
                             @Html.ActionLink("￥", "CheckOut", new { id = item.ID, price = item.Price },
                             new { @class = "btn btn-danger btn-xs", @title = "购买" })
 
-                            @Html.ActionLink(" ", "Details", new { id = item.ID, price = item.Price },
+                            @Html.ActionLink(" ", "Details", new { id = item.ID, price = item.Price,item.Name },
                                   new { @class = "btn btn-primary btn-xs glyphicon glyphicon-shopping-cart", @title = "加入购物车" })
 
                             <button class="btn btn-success btn-xs" type="submit">
@@ -69,3 +71,4 @@
 @Html.ActionLink("新建", "CreateOrEdit", null, new { @class = "btn btn-primary" })
 @Html.ActionLink("取消", "Index", "Home", null, new { @class = "btn btn-default" })
 <script src="~/Scripts/MusicStore/Album.js"></script>
+<script src="~/Scripts/MusicStore/MusicHome.js"></script>

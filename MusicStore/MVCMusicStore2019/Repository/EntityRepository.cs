@@ -10,12 +10,9 @@ namespace MVCMusicStore2019.Repository
 {
     public class EntityRepository<T>:IEntityRepository<T> where T:class, IEntity,new()
     {
-        //private static IList<T> list;
         readonly DbContext _context;
         public EntityRepository(MusicDbContext context)
         {
-            //list = new List<T>();
-            //T bo = new T();
             _context = context;
         }
         public virtual IQueryable<T> GetAll()

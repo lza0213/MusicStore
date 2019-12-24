@@ -220,6 +220,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MusicStoreIndexController.cs" />
+    <Compile Include="Controllers\ShoppingCartController.cs" />
     <Compile Include="Controllers\UinityControllerFactory.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -258,6 +259,7 @@
     <Compile Include="ViewModels\AlbumTypeViewModel.cs" />
     <Compile Include="ViewModels\ArtistViewModel.cs" />
     <Compile Include="ViewModels\GenreViewMdoel.cs" />
+    <Compile Include="ViewModels\ShoppingCartViewModel.cs" />
     <Compile Include="ViewModels\StudentViewModel.cs" />
     <Compile Include="ViewModels\UserLoginViewModel.cs" />
   </ItemGroup>
@@ -415,6 +417,7 @@
     <Folder Include="PICS\" />
     <Folder Include="Views\Admin\" />
     <Folder Include="Views\Default\" />
+    <Folder Include="Views\ShoppingCart\" />
     <Folder Include="Views\UinityControllerFactory\" />
   </ItemGroup>
   <ItemGroup>

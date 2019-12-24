@@ -13,11 +13,11 @@ namespace MVCMusicStore2019.Controllers.Example
         public List<Album> GetALLAlbum()
         {
             List<Album> aList = new List<Album>();
-            Album alb1 = new Album { ID = Guid.NewGuid(), Name = "你的答案", Description = "国语专辑", IssueDate = DateTime.Now, Issuer = "蔡徐坤", LanguageClassification = "国语", Price = 20 };
-            Album alb2 = new Album { ID = Guid.NewGuid(), Name = "重生", Description = "国语专辑", IssueDate = DateTime.Now, Issuer = "蔡徐坤", LanguageClassification = "国语", Price = 100 };
-            Album alb3 = new Album { ID = Guid.NewGuid(), Name = "你的答案1", Description = "国语专辑", IssueDate = DateTime.Now, Issuer = "蔡徐坤", LanguageClassification = "国语", Price = 120 };
-            Album alb4 = new Album { ID = Guid.NewGuid(), Name = "你的答案2", Description = "国语专辑", IssueDate = DateTime.Now, Issuer = "蔡徐坤", LanguageClassification = "国语", Price = 20 };
-            Album alb5 = new Album { ID = Guid.NewGuid(), Name = "你的答案3", Description = "国语专辑", IssueDate = DateTime.Now, Issuer = "蔡徐坤", LanguageClassification = "国语", Price = 120 };
+            Album alb1 = new Album { ID = Guid.NewGuid(), Name = "你好！明天", Description = "国语", IssueDate = DateTime.Now, Issuer = "牛奶咖啡", LanguageClassification = "国语", Price = 20 };
+            Album alb2 = new Album { ID = Guid.NewGuid(), Name = "你好！明天", Description = "国语", IssueDate = DateTime.Now, Issuer = "牛奶咖啡", LanguageClassification = "国语", Price = 100 };
+            Album alb3 = new Album { ID = Guid.NewGuid(), Name = "你好！明天", Description = "国语", IssueDate = DateTime.Now, Issuer = "牛奶咖啡", LanguageClassification = "国语", Price = 120 };
+            Album alb4 = new Album { ID = Guid.NewGuid(), Name = "你好！明天", Description = "国语", IssueDate = DateTime.Now, Issuer = "牛奶咖啡", LanguageClassification = "国语", Price = 20 };
+            Album alb5 = new Album { ID = Guid.NewGuid(), Name = "你好！明天", Description = "国语", IssueDate = DateTime.Now, Issuer = "牛奶咖啡", LanguageClassification = "国语", Price = 120 };
             aList.Add(alb1);
             aList.Add(alb2);
             aList.Add(alb3);
