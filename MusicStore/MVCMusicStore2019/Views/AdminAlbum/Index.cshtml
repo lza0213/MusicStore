@@ -31,8 +31,7 @@
             {
                 <tr>
                     @Html.HiddenFor(modelItem => item.ID)
-                    <th>@item.OrderNumber</th>
-                    <td><img src="~/PICS/@Url.Content(item.Urlstring)" class="say"</td>
+                    <td><img src="~/PICS/@Url.Content(item.Urlstring)" class="lza" /></td>
                     <td>@Html.DisplayFor(modelItem => item.Name)</td>
                     <td>@Html.DisplayFor(modelItem => item.Description)</td>
                     <td>@Html.DisplayFor(modelItem => item.Price)</td>
