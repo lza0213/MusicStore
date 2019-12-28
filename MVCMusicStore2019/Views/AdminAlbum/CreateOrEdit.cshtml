@@ -1,0 +1,86 @@
+﻿
+@model MVCMusicStore2019.ViewModels.AlbumViewModel
+@{
+    ViewBag.Title = "系统管理员页面";
+}
+<h3>@ViewBag.Title</h3>
+@Html.ValidationSummary(false,"",new { @class="text-danger" })@*数据注解验证*@
+
+@using (Html.BeginForm())
+{
+    <input type="hidden" id="CurrentGenreSelectedID" value="@Model.GenreID" />
+    <input type="hidden" id="CurrentArtistSelectedID" value="@Model.ArtistID" />
+    <input type="hidden" id="CurrentAlbumTypeSelectedID" value="@Model.AlbumTypeID" />
+    @Html.AntiForgeryToken();//防伪造脚本攻击，CSRF
+    <div class="form-group">
+        @Html.LabelFor(x => x.Name, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Description, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x=>x.GenreName,new { @class="col-md-2 control-label"})
+        <div id="GenreSelectList" ></div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.ArtistName, new { @class = "col-md-2 control-label" })
+            <div id="ArtistSelectList"></div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.AlbumTypeName, new { @class = "col-md-2 control-label" })
+            <div id="AlbumTypeSelectList"></div>
+        </div>
+       <div class="form-group">
+           @Html.LabelFor(x => x.Price, new { @class = "col-md-2 control-label" })
+           @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+       </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.IssueDate, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.IssueDate, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Issuer, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Issuer, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.LanguageClassification, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.LanguageClassification, new { @class = "form-control" })
+    </div>
+    //图片上传实现
+    <div class="form-group">
+        @Html.LabelFor(x => x.Urlstring, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Urlstring, new { @class = "form-control" })
+        <br />
+        <br />
+        <div id="FormContent">
+            <div id="FormUpload" enctype="multipart/from-data" method="post">
+                <span class="btn btn-success fileinput-button">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    <span>添加图片</span>
+                    <input type="file" name="UploadeFile" id="UploadeFile" onchange="singleFileSelected()" />
+                </span>
+                <button class="btn btn-primary start" type="button" id="Submit_btn" onclick="upFileImg()">
+                    <i class="glyphicon glyphicon-upload"></i>
+                    <span>图片保存</span>
+                </button>
+            </div>
+            <div class="progress CustomProgress">
+                <div id="FileProgess" class="progress progress-bar" role="progressbar"></div>
+            </div>
+            <div class="InfoContainer">
+                <div id="Imgcontainer"></div>
+                <div id="FileName" class="info"></div>
+                <div id="FileSize" class="info"></div>
+                <div id="FileType" class="info"></div>
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">@ViewBag.Operation</button>
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })//定义取消按钮，实现/AdminArtistViewMdoel/Index方法调用
+}
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryfileupload")
+<script src="~/Scripts/MusicStore/Album.js"></script>

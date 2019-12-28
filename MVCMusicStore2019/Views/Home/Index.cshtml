@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "音乐商店";
+}
+
+@*===========巨幕效果：将类名设置称为jumbotron============*@
+<div class="row">
+    
+    <div class="col-lg-12">
+        <div class="input-group">
+            <input type="text" class="form-control pull-right" placeholder="请在此搜索关键词...">
+            <span class="input-group-btn">
+                <button class="btn btn-default pull-right" type="button">搜索</button>
+            </span>
+        </div>
+    </div>
+</div>
+<div class="jumbotron">
+    <h1>MVC Music Store项目简介</h1>
+    <p class="lead">MVC Music Store是一个音乐专辑购物网站项目。</p>
+    <p>MVC Music Store项目采用了Bootstrap前端开发框架进行用户UI端实现，包含用户管理、商品管理、订单管理等功能实现，涉及使用前端知识有Bootstrap、Ajax、jQuery、AngularJS等前端技术。</p>
+    <p>MVC Music Store项目后端技术设计MVC模式开发、特性路由、过滤器、数据注解和验证、安全机制、ASP.NET Web API、IoC&DI、单元测试等技术。</p>
+    <p class="text-right"><a class="btn btn-primary btn-lg" href="http://www.lzzy.net" target="_blank" role="button">访问柳职</a></p>
+</div>
+<h1>动态轮播</h1>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox" id="carousel">
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<h1 class="text-center">轮播图列表实现</h1>
+<div id="container2">
+    <div id="carousel-index2" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-index2" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-index2" data-slide-to="1"></li>
+            <li data-target="#carousel-index2" data-slide-to="2"></li>
+        </ol>
+        <div id="carousel-list"></div>
+        <a class="left carousel-control" href="#carousel-index2" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-index2" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+
+    </div>
+</div>
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Getting started</h2>
+            <p>
+                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                enables a clean separation of concerns and gives you full control over markup
+                for enjoyable, agile development.
+            </p>
+            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Get more libraries</h2>
+            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Web Hosting</h2>
+            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        </div>
+    </div>
+
+    @Html.ActionLink("注销", "Logout", "Account", null, new { @class = "btn btn-primary" })
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/MusicStore/MusicHome.js"></script>

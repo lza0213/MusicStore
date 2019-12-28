@@ -1,0 +1,44 @@
+﻿@using MVCMusicStore2019.Models.MusicStore
+@model MVCMusicStore2019.ViewModels.ShoppingCartViewModel
+<div class="panel-heading">
+    @ViewBag.Title
+</div>
+<h2>购物车列表</h2>
+<table class="table table-striped">
+    <tr>
+        <th>专辑</th>
+        <th>价格</th>
+        <th>数量</th>
+        <th>金额</th>
+        <th></th>
+    </tr>
+    @if (this.Model.Items.Count() == 0)
+    {
+        <tr><td colspan="3" class="text-center">没有用户数据</td></tr>
+    }
+    else
+    {
+        foreach(ShoppingCartItem item in this.Model.Items)
+        {
+            <tr>
+                <td>
+                    @Html.RouteLink(@item.AlbumName,"Details",new {id=@item.ID,price=item.Price})
+                </td>
+                <td>
+                    ￥@item.Price.ToString("#0.00")
+                </td>
+                <td>
+                    ￥@item.SuTotaPrice.ToString("#0.00")
+                </td>
+                <td></td>
+            </tr>
+        }
+        <tr>
+            <td colspan="3"></td>
+            <td><b>总价：￥@this.Model.TotalPrice.ToString("#0.00")</b></td>
+            <td></td>
+        </tr>
+    }
+</table>
+@Scripts.Render("~/bumdles/jqurey")
+<script src="~/Scripts/MusicStore/ShoppingCart.js"></script>
